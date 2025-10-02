@@ -1,0 +1,23 @@
+<servers>
+    <server  
+        name="Radio Komunikasi Indonesia"
+        ca="0"
+        continent_code="AS"
+        country="Indonesia"
+        country_code="ID"
+        ip="beve-studio.my.id"
+        port="78566"
+        region="ID"
+        url="https://beve-studio.my.id" />
+        
+    <server  
+        name="Backup Server"
+        ca="0"
+        continent_code="AS"
+        country="Indonesia"
+        country_code="ID"
+        ip="backup.beve-studio.my.id"
+        port="78567"
+        region="ID"
+        url="https://backup.beve-studio.my.id" />
+</servers>
